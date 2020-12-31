@@ -1,0 +1,152 @@
+Reference,Location,Sample depth,units,Na,SO4,Cl,Mg,Ca,Alkalinity ,pH,Temp
+"Wood et al., (2005)",Abu Dhabi,nonmarine,mg/L,83000,750,200000,13400,12900,13,6.13,27
+"Wood et al., (2005)",Abu Dhabi,nonmarine,mg/L,81500,900,190500,14400,8250,16,6.5,27
+"Wood et al., (2005)",Abu Dhabi,nonmarine,mg/L,40300,200,240000,31000,40000,20,5.6,27
+"Wood et al., (2005)",Abu Dhabi,nonmarine,mg/L,71500,650,197000,17900,15800,12,6,27
+"Wood et al., (2005)",Abu Dhabi,nonmarine,mg/L,88000,2500,166000,5800,2900,8.5,6.5,27
+"Wood et al., (2005)",Abu Dhabi,nonmarine,mg/L,92000,1700,177000,7700,5600,32,6.5,27
+"Wood et al., (2005)",Abu Dhabi,nonmarine,mg/L,64500,250,204000,20500,269000,21,6.1,27
+"Wood et al., (2005)",Abu Dhabi,nonmarine,mg/L,63000,2800,105000,3750,3500,45,7.6,27
+"Wood et al., (2005)",Abu Dhabi,nonmarine,mg/L,81500,2150,157000,4700,4250,36,7.4,27
+"Wood et al., (2002)",Abu Dhabi,porewater,mg/L,31000,10000,57000,3500,1400,78,7.34,20
+"Wood et al., (2002)",Abu Dhabi,porewater,mg/L,60000,12000,112000,6700,1100,83,7.04,20
+"Wood et al., (2002)",Abu Dhabi,porewater,mg/L,71000,8800,123000,6850,1450,71,6.94,20
+"Wood et al., (2002)",Abu Dhabi,surface,mg/L,13000,3450,24000,1750,625,152,7.6,30
+"Wood et al., (2002)",Abu Dhabi,surface,mg/L,13200,3400,24000,1700,625,140,7.6,30
+"Wood et al., (2002)",Abu Dhabi,surface,mg/L,16100,3800,28500,2150,700,170,7.9,30
+"Banat et al., (2005)",Jeddah,porewater,ppm,29990,8518,63583,4256,1002,305,7.2,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,26500,6997,56890,4377,801,183,7.1,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,23400,6735,56053,3648,1002,305,7.1,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,23800,6620,51870,8283,1603,244,7.2,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,42000,5475,86171,6080,1603,335,7.3,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,41600,11434,87008,6809,1402,305,6.8,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,47500,7647,98721,5715,1402,122,7.1,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,24200,3079,64419,4620,4008,122,7.2,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,41300,11061,88681,6566,1202,244,7,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,37700,3068,92864,5228,4008,112,7,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,45400,9105,115453,6080,1603,244,7,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,55000,3544,145571,6080,2805,152,6.7,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,71400,5831,5856.3,7539,1603,152,6.6,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,40700,7945,109597,4864,1603,213,7,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,51700,4080,154774,5836,1603,244,7,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,80900,2787,96211,7296,1404,123,7,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,40400,1320,110433,5715,4809,173,7,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,56300,3753,110533,6323,1603,305,6.8,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,43400,1185,100934,6566,5120,122,7,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,45400,31181,104577,5228,2404,183,7,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,54300,1798,111270,6566,1803,183,7.4,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,30100,1287,79478,5472,4008,183,7.1,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,30300,3495,88681,4742,4609,244,7.1,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,23100,1439,46014,4620,3406,244,7.2,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,33300,1907,79132,5107,1603,183,7.1,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,51000,5237,104577,6201,2204,244,7.2,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,72400,3375,69439,6323,4208,213,7,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,23100,1741,133022,7442,1202,183,7,15
+"Banat et al., (2005)",Jeddah,surface,ppm,30500,9257,65256,4377,1202,244,7.9,15
+"Banat et al., (2005)",Jeddah,surface,ppm,19900,8227,40994,3891,1202,213,7.8,15
+"Banat et al., (2005)",Jeddah,surface,ppm,27100,7909,59400,3769,1402,244,7.7,15
+"Banat et al., (2005)",Jeddah,surface,ppm,13700,2184,31791,1702,1202,244,8.1,15
+"Banat et al., (2005)",Jeddah,surface,ppm,21000,3557,38484,3040,1202,244,8.2,15
+"Banat et al., (2005)",Jeddah,surface,ppm,12800,1847,26771,1945,1002,244,8,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,44600,4774,92864,5958,1202,244,6.9,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,64400,4647,113780,6201,1402,305,6.9,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,62700,2911,122983,7052,2004,244,7.1,15
+"Banat et al., (2005)",Jeddah,surface,ppm,13200,1776,30954,1216,2004,244,8.1,15
+"Banat et al., (2005)",Jeddah,surface,ppm,12700,1688,25098,1702,801,305,8.2,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,14600,1946,33464,1824,1603,366,7.4,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,35600,2149,75295,3526,1603,244,7.3,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,38100,2555,79478,3526,2204,244,7.2,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,12200,3838,26771,2067,2204,305,7.3,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,29300,3769,61909,4377,601,274,8.1,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,18700,2450,37647,2310,801,366,7.2,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,25500,3385,55216,3769,1002,335,7.1,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,11000,2099,20915,1459,1002,213,7.2,15
+"Banat et al., (2005)",Jeddah,porewater,ppm,10200,2258,20078,1459,801,305,7.4,15
+"Banat et al., (2005)",Jeddah,surface,ppm,11800,1617,25935,1824,1002,244,7,15
+"Banat et al., (2005)",Jeddah,surface,ppm,13400,1825,26771,1860,801,244,8.2,15
+Basyoni and Aref (2015),Jizan,porewater,mg/L,2292,3200,5367,830,1332,137,7.39,23
+Basyoni and Aref (2015),Jizan,porewater,mg/L,3590,2150,9527,1633,3140,87,7.45,23
+Basyoni and Aref (2015),Jizan,porewater,mg/L,4998,2550,26548,2340,4800,69,6.91,23
+Basyoni and Aref (2015),Jizan,porewater,mg/L,27720,4150,123660,15000,18100,86,6.05,23
+Basyoni and Aref (2015),Jizan,porewater,mg/L,35280,2150,132160,15000,17100,95,6.6,23
+Basyoni and Aref (2015),Jizan,porewater,mg/L,54300,8950,122748,8800,1112,189,6.77,23
+Basyoni and Aref (2015),Jizan,porewater,mg/L,55800,1950,136981,10390,15500,113,6.63,23
+Basyoni and Aref (2015),Jizan,porewater,mg/L,87900,465,226789,15500,16500,45,6.01,23
+Basyoni and Aref (2015),Jizan,porewater,mg/L,176650,4100,47440,5000,6550,95,6.99,23
+Basyoni and Aref (2015),Jizan,porewater,mg/L,251700,8950,213023,8350,1024,117,7.15,23
+Levy (1977),northern Sinai,porewater,mmol/L,1666,3.7,5115,1088.5,692.5,1.5,6.01,25
+Levy (1977),northern Sinai,surface,mmol/L,2045,3.2,5124,935.5,592,1.4,6.14,25
+Levy (1977),northern Sinai,surface,mmol/L,1833,3.35,5028,960.5,647,1.3,6.2,25
+Levy (1977),northern Sinai,surface,mmol/L,2922,3.25,4650,463.5,344.5,0.25,6.3,25
+Levy (1977),northern Sinai,surface,mmol/L,2910,24,4672,867.5,53.5,2,6.57,25
+Levy (1977),northern Sinai,surface,mmol/L,3652,7.6,4548,271,182,0.4,6.6,25
+Levy (1977),northern Sinai,surface,mmol/L,3695,154.5,4430,460,8,2.8,6.65,25
+Levy (1977),northern Sinai,surface,mmol/L,3470,5.85,4600,476,176,3.3,6.7,25
+Levy (1977),northern Sinai,surface,mmol/L,3288,3.5,4467,325.5,231,0.5,6.7,25
+Levy (1977),northern Sinai,surface,mmol/L,3741,7.5,4667,348,230,0.4,6.75,25
+Levy (1977),northern Sinai,surface,mmol/L,3710,167,4440,484.5,12.5,2.2,6.91,25
+Levy (1977),northern Sinai,surface,mmol/L,3815,154.5,4511,458,10,2.2,6.93,25
+Levy (1977),northern Sinai,surface,mmol/L,2076,7,3546,411.5,363.5,1.4,6.95,25
+Levy (1977),northern Sinai,surface,mmol/L,3799,158,4492,455.5,10,2.2,7,25
+Levy (1977),northern Sinai,surface,mmol/L,3532,38,4560,409,32,1.4,7,25
+Levy (1977),northern Sinai,surface,mmol/L,2945,110,4625,359.5,14.5,2.1,7.03,25
+Levy (1977),northern Sinai,surface,mmol/L,3866,220,4458,411.5,10.5,2.7,7.04,25
+Levy (1977),northern Sinai,surface,mmol/L,3683,138.5,4303,402.5,10.5,3.3,7.05,25
+Levy (1977),northern Sinai,surface,mmol/L,3721,32,4606,398,38,1.5,7.05,25
+Levy (1977),northern Sinai,surface,mmol/L,4219,31,4464,312,17,0.8,7.1,25
+Levy (1977),northern Sinai,surface,mmol/L,4035,41,4602,331,35.5,1,7.1,25
+Levy (1977),northern Sinai,surface,mmol/L,3922,134.5,4440,394,21,2,7.15,25
+Levy (1977),northern Sinai,surface,mmol/L,3909,137,4480,395,10,2.5,7.15,25
+Levy (1977),northern Sinai,surface,mmol/L,4035,89.5,4531,240.5,20,1.3,7.2,25
+Levy (1977),northern Sinai,porewater,mmol/L,3696,100.5,4312,352.5,23,1,7.2,25
+Levy (1977),northern Sinai,surface,mmol/L,3652,126,4392,436.5,10.5,2,7.2,25
+Levy (1977),northern Sinai,surface,mmol/L,1024,15.5,1175,193,195.5,0.9,7.2,25
+Levy (1977),northern Sinai,surface,mmol/L,3514,232,4443,655.5,8.3,4.5,7.23,25
+Levy (1977),northern Sinai,surface,mmol/L,3804,166.5,4562,472.5,25,2.8,7.25,25
+Levy (1977),northern Sinai,surface,mmol/L,3668,63,4571,478,17,1.5,7.3,25
+Levy (1977),northern Sinai,surface,mmol/L,3705,50,4583,446.5,86.5,1.3,7.3,25
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,6366,804,47040,1834,1624,93.3,7.52,31.9
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,11660,2996,20247,1260,1204,157,7,29.8
+Basyoni and Mousa (2009),Murayr sabkha,surface,mg/L,15270,1123,24126,1770,473,151,8,22
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,26970,3404,50563,1902,1329,166.1,7,31
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,31995,720,32305,1592,1091,129.4,7.4,31.1
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,54480,3360,59689,1813,599,73.2,7.3,30.1
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,64220,3288,113800,4104,1545,48.9,6.9,35.5
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,68565,2676,88212,3236,1447,61.8,7.7,34.1
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,79260,4460,131500,7300,1854,78.2,6.8,30
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,81600,3334,139000,5002,1480,30.6,6.5,30.8
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,82340,1443,150000,7900,2131,49.6,6.84,33.8
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,84920,4440,148000,4054,1591,34.7,6.6,31.1
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,99060,3452,190000,6664,1711,34.1,6.64,29.3
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,107260,2780,198000,4728,1449,33.8,6.5,33.5
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,107520,3250,170000,4692,1453,50.3,6.5,34.1
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,110780,3090,203500,9716,959,73,6.85,32.4
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,111380,2158,184000,8640,3145,64.9,6.64,29.5
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,114180,2832,188900,10180,2100,50,6.66,34.7
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,115320,5552,211000,12258,750,91.2,6.8,22.5
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,117080,2104,192000,9464,719,119,6.7,29.2
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,117310,1400,189500,8976,902,114,6.7,33.6
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,118020,2470,183500,6134,1931,47.9,6.5,36.5
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,118680,2028,191000,8228,938,45,6.66,30.9
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,119480,1904,235000,9690,590,122.4,6.9,24
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,121080,2550,209500,5904,1894,46,5.7,30.1
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,122550,3680,208000,11528,969,89.1,6.8,30.4
+Basyoni and Mousa (2009),Murayr sabkha,porewater,mg/L,125280,2898,178000,5924,1819,16.4,4.5,28
+"Rivers et al., (2019)",Qatar,surface,mg/L,25.8,7,46.1,3090,1050,100,8.52,31.268
+"Rivers et al., (2019)",Qatar,surface,mg/L,14.4,3,26.3,1550,540.6,150,8.13,31.958
+"Rivers et al., (2019)",Qatar,surface,mg/L,20.8,4.2,35.5,2520,764.5,131.6,8.24,22.3
+"Rivers et al., (2019)",Qatar,surface,mg/L,14.5,3,26.3,1510,533,148.8,8.17,27.127
+"Rivers et al., (2019)",Qatar,surface,mg/L,20.3,3.8,35.1,2080,729.3,120,8.18,30.073
+"Rivers et al., (2019)",Qatar,surface,mg/L,22.1,4.1,39,2350,751,120,8.16,29.838
+"Rivers et al., (2019)",Qatar,surface,mg/L,14.3,2.8,25.6,1630,561.7,129.6,8.48,28.549
+"Rivers et al., (2019)",Qatar,surface,mg/L,83.3,20,152,9700,926.9,260,7.57,28.728
+"Rivers et al., (2019)",Qatar,surface,mg/L,91,32,183,20000,424.2,512.5,7.33,31.142
+"Rivers et al., (2019)",Qatar,surface,mg/L,34.8,8,60.4,3260,1810,123.2,8.23,21.07
+"Rivers et al., (2019)",Qatar,surface,mg/L,106,19,187,13100,602,338.8,7.74,23.065
+"Rivers et al., (2019)",Qatar,surface,mg/L,23.9,5.2,43.8,2610,822,158.4,8.37,21.596
+"Rivers et al., (2019)",Qatar,surface,mg/L,73.7,10,128,6490,1300,180.4,8.37,21.513
+"Rivers et al., (2019)",Qatar,surface,mg/L,74.8,3,120,920,1870,52.8,7.79,22.389
+"Rivers et al., (2019)",Qatar,surface,mg/L,53.3,9,97,5330,1470,189.2,8.17,22.035
+"Rivers et al., (2019)",Qatar,surface,mg/L,112,3.8,171,1250,2280,51.7,7.62,23.916
+"Rivers et al., (2019)",Qatar,surface,mg/L,70.6,12,123.5,6650,1130,187.2,8.04,36.895
+"Rivers et al., (2019)",Qatar,surface,mg/L,29.7,5.2,50.9,2660,856,144,8.33,34.855
