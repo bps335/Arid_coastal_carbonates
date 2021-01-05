@@ -86,7 +86,7 @@
                   Time                  P        NP
           Cambrian_Devonian             6        74
           Carboniferous_Early_Permian   3        20
-          mid_Permian_Early_Jurassic    20       34
+          mid_Permian_Early_Jurassic    19       35
           mid_Jurassic_pressent         4        81
           ")
   ## Convert the input table to matrix form to pass to the fisher.test function
