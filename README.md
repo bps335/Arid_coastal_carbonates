@@ -2,7 +2,7 @@
 
 This repository hosts codes that accompany the following manuscript:
 
-Smith et al., (in Revision), Arid Coastal Carbonates and the Phanerozoic Record of Carbonate Chemistry
+Smith et al., (in Revision for AGU Advances), Arid Coastal Carbonates and the Phanerozoic Record of Carbonate Chemistry
 
 File names marked with REVISED have changed since the intitial submission. 
 
