@@ -16,7 +16,6 @@
   ## the input file(s) (with headers) saved as a .csv file. 
 
   #setwd("............")
-  setwd("F:/New Backup/PhD Work/Tepee_GRL/Revisions")
 
   ## Load libraries. Both of these must be installed to run the code. 
 
